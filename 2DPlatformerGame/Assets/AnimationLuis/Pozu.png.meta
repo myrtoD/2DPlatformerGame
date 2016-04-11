@@ -1,0 +1,209 @@
+fileFormatVersion: 2
+guid: 57fdf9d226b36408bad82218ca5cc7d8
+timeCreated: 1459211282
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Right Shoulder
+    21300002: Head
+    21300004: Left Arm
+    21300006: Right Hand
+    21300008: Right Arm
+    21300010: Body
+    21300012: Left Shoulder
+    21300014: Leg
+    21300016: Foot
+    21300018: Gun
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Right Shoulder
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 325
+        width: 32
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 19}
+        - {x: -16, y: 14}
+        - {x: -16, y: -16}
+        - {x: -13, y: -19}
+        - {x: 16, y: -19}
+        - {x: 16, y: 19}
+    - name: Head
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 325
+        width: 30
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Left Arm
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 307
+        width: 33
+        height: 35
+      alignment: 9
+      pivot: {x: 0.2628872, y: 0.7845363}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.6752777, y: 7.5412292}
+        - {x: -8.675278, y: 1.5412292}
+        - {x: -8.675278, y: -14.458771}
+        - {x: 9.324722, y: -27.45877}
+        - {x: 24.324722, y: -27.45877}
+        - {x: 24.324722, y: -9.458771}
+        - {x: 14.324722, y: 7.5412292}
+    - name: Right Hand
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 261
+        width: 23
+        height: 54
+      alignment: 9
+      pivot: {x: 0.4072166, y: 0.8951885}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Right Arm
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 253
+        width: 33
+        height: 35
+      alignment: 9
+      pivot: {x: 0.7155572, y: 0.78453803}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.613388, y: 7.541168}
+        - {x: -23.613388, y: -6.458832}
+        - {x: -23.613388, y: -27.458832}
+        - {x: -2.613388, y: -27.458832}
+        - {x: 9.386612, y: -9.458832}
+        - {x: 9.386612, y: 5.541168}
+        - {x: 6.386612, y: 7.541168}
+    - name: Body
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 228
+        width: 55
+        height: 91
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: 45.5}
+        - {x: -27.5, y: -28.5}
+        - {x: -8.5, y: -45.5}
+        - {x: 13.5, y: -45.5}
+        - {x: 27.5, y: -5.5}
+        - {x: 27.5, y: 45.5}
+    - name: Left Shoulder
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 251
+        width: 32
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 19}
+        - {x: -16, y: 14}
+        - {x: -16, y: -16}
+        - {x: -13, y: -19}
+        - {x: 16, y: -19}
+        - {x: 16, y: 19}
+    - name: Leg
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 190
+        width: 17
+        height: 53
+      alignment: 9
+      pivot: {x: 0.54184407, y: 0.848959}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Foot
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 200
+        width: 55
+        height: 23
+      alignment: 9
+      pivot: {x: 0.862136, y: 0.5000013}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Gun
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 204
+        width: 50
+        height: 19
+      alignment: 9
+      pivot: {x: 0.11587677, y: 0.68719643}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
